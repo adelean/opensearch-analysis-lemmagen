@@ -7,11 +7,11 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.opensearch</groupId>
   <artifactId>opensearch-analysis-lemmagen</artifactId>
-  <version>2.14.0</version>
+  <version>2.17.0</version>
   <packaging>jar</packaging>
   <properties>
-    <plugin.version>2.14.0</plugin.version>
-    <opensearch.version>2.14.0</opensearch.version>
+        <plugin.version>2.17.0</plugin.version>
+    <opensearch.version>2.17.0</opensearch.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
   <dependencies>

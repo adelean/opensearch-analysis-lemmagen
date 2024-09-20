@@ -13,7 +13,7 @@ The LemmaGen Analysis plugin provides [jLemmaGen lemmatizer](https://github.com/
 Beginning with OpenSearch 2, installation is as follows:
 
 ```bash
-export VERSION=2.14.0
+export VERSION=2.17.0
 ./bin/opensearch-plugin install https://github.com/ngsoftwaredev/opensearch-analysis-lemmagen/releases/download/$VERSION/opensearch-analysis-lemmagen-$VERSION-plugin.zip
 ```
 
